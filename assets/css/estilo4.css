@@ -97,6 +97,10 @@ nav {
     font-size: larger;
 }
 
+.home:hover{
+    text-decoration: underline;
+}
+
 /* rodapé */
 .sectionII {
     width: 100%;
