@@ -151,6 +151,11 @@ nav {
     font-size: larger;
 }
 
+.home:hover{
+    text-decoration: underline;
+}
+
+
 /* rodapé */
 .sectionII {
     background-color: #a3a3a3;
