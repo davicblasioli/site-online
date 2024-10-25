@@ -42,6 +42,10 @@ nav {
     font-size: larger;
 }
 
+.home:hover{
+    text-decoration: underline;
+}
+
 h1 {
     font-size: 70px;
 }
